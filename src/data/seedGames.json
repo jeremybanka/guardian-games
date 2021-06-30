@@ -1,22 +1,32 @@
 [
   {
     "imageUrl": "https://cf.geekdo-images.com/bwABghR3MhsmGJqyh42WXQ__itemrep/img/JM8NOeeMOnG1Vv_7dZgFTgj5ZUg=/fit-in/246x300/filters:strip_icc()/pic6235824.png",
-    "name": "Gloomholdin'"
+    "name": "Gloomholdin'",
+    "description": "Gloomholdin' is an 18-card, no-table-needed version of Gloomhaven. It can be played completely in your hand, but I provide a way to play it on-table as well.",
+    "quantity": 25
   },
   {
-    "imageUrl": "https://boardgamegeek.com/image/5909342/terraforming-mars-ares-expedition",
-    "name": "Terraforming Mars"
+    "imageUrl": "https://cf.geekdo-images.com/fW43z5XJG-DnzFChgZNM-Q__itemrep/img/EQKEwllwkMoUGSG9jsG1-lGgeDk=/fit-in/246x300/filters:strip_icc()/pic5909342.jpg",
+    "name": "Terraforming Mars",
+    "description": "In the 2400s, mankind begins to terraform the planet Mars. Giant corporations, sponsored by the World Government on Earth, initiate huge projects to raise the temperature, the oxygen level, and the ocean coverage until the environment is habitable. In Terraforming Mars, you play one of those corporations and work together in the terraforming process, but compete for getting victory points that are awarded not only for your contribution to the terraforming, but also for advancing human infrastructure throughout the solar system, and doing other commendable things.",
+    "quantity": 20
   },
   {
-    "imageUrl": "https://boardgamegeek.com/image/6253876/lost-ruins-arnak-expedition-leaders",
-    "name": "Lost Ruins of Arnak: Expedition Leaders"
+    "imageUrl": "https://cf.geekdo-images.com/U4aoXbKATU7YbA8bAT73FQ__itemrep/img/_PjoJQ70biv6LEDe8fUPDlGVg58=/fit-in/246x300/filters:strip_icc()/pic6253876.png",
+    "name": "Lost Ruins of Arnak: Expedition Leaders",
+    "description": "On an uninhabited island in uncharted seas, explorers have found traces of a great civilization. Now you will lead an expedition to explore the island, find lost artifacts, and face fearsome guardians, all in a quest to learn the island's secrets.",
+    "quantity": 15
   },
   {
-    "imageUrl": "https://boardgamegeek.com/image/6240235/free-ride",
-    "name": "Free Ride"
+    "imageUrl": "https://cf.geekdo-images.com/cs7Oby2YsVe-lcP65FdXgQ__itemrep/img/3zD3j8iz33e3xtco6mI5texWo9E=/fit-in/246x300/filters:strip_icc()/pic6240235.jpg",
+    "name": "Free Ride",
+    "description": "Around the end of the 19th century, a growing network of railway lines was built in Europe, allowing people to travel to the major cities to visit beautiful structures influenced by Art Nouveau and Historicism.",
+    "quantity": 17
   },
   {
-    "imageUrl": "https://boardgamegeek.com/image/1420706/zug-um-zug-deutschland",
-    "name": "Zug um Zug"
+    "imageUrl": "https://cf.geekdo-images.com/hLD-_4_cx5GwpO41XY5c7Q__itemrep/img/E8pV-r32NHXLIgjfLFqmNZPH6vM=/fit-in/246x300/filters:strip_icc()/pic1420706.jpg",
+    "name": "Zug um Zug",
+    "description": "Zug um Zug: Deutschland is a stand-alone game in the Game: Ticket to Ride series. Over the course of the game, players collect cards in order to then claim routes on the game board between two cities. Ideally the players create a network of routes that connect the cities showing on their secret ticket cards. Players score points both for claiming routes and for completing tickets, with incomplete tickets counting against a player's score. Whoever has the most points at the end of the game wins.",
+    "quantity": 23
   }
 ]
