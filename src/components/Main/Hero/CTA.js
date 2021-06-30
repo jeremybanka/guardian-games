@@ -1,6 +1,6 @@
 const CTA = () => (
   <button type='button'>
-    Call to action
+    Buy your copy
   </button>
 )
 

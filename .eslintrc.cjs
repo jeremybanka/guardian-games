@@ -38,12 +38,13 @@ module.exports = {
       `ignorePackages`,
       {
         js: `never`,
+        json: `never`,
         jsx: `never`,
         ts: `never`,
         tsx: `never`,
       },
     ],
-    "jsx-quotes": [`error`, `prefer-double`],
+    "jsx-quotes": [`error`, `prefer-single`],
     "keyword-spacing": [
       `error`,
       {
@@ -187,7 +188,7 @@ module.exports = {
     "react-hooks/exhaustive-deps": `error`,
 
   },
-};
+}
 /*
     "@emotion/eslint-plugin": "^11.2.0",
     "babel-eslint": "^10.1.0",

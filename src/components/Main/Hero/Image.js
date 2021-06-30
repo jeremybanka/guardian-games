@@ -1,5 +1,8 @@
-const Image = () => (
-  <img src='image location' alt='hero alt text' />
-)
+const Image = ({ gameSummaries }) => {
+  const { imageUrl, name } = gameSummaries[0]
+  return (
+    <img src={imageUrl} alt={name} />
+  )
+}
 
 export default Image

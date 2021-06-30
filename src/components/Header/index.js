@@ -1,9 +1,9 @@
 import Title from './Title'
 
-const Header = () => (
-  <header>
+const Header = () => {
+  (<header>
     <Title />
-  </header>
-)
+  </header>)
+}
 
 export default Header

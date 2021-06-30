@@ -2,10 +2,10 @@ import Image from './Image'
 import Description from './Description'
 import CTA from './CTA'
 
-export default () => (
+export default ({ gameSummaries }) => (
   <section>
-    <Image />
-    <Description />
-    <CTA />
+    <Image gameSummaries={gameSummaries} />
+    <Description gameSummaries={gameSummaries} />
+    <CTA gameSummaries={gameSummaries} />
   </section>
 )

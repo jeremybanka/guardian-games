@@ -1,6 +1,6 @@
 const Title = () => (
   <h1>
-    Title
+    Guardian Games
   </h1>
 )
 
