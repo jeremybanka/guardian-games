@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+i {
+  font-family: Icon;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Icon;
+  src: url("./fonts/GuardianGamesIcons-Regular.woff") format("woff");
+  src: url("./fonts/GuardianGamesIcons-Regular.woff2") format("woff2");
+}
